@@ -97,7 +97,6 @@ Los computadores utilizan lógica binaria ($0$ y $1$) debido a la facilidad para
 
 ### `semana-01/ape-01-informe.md`
 
-```markdown
 # Reporte Técnico APE N.º 01: Reconocimiento del entorno de simulación y comprobación de compuertas
 
 ## 1. Datos Generales
@@ -127,7 +126,6 @@ Se montaron los encapsulados DIP-14 en el simulador, verificando su alimentació
 
 ## 4. Ensayo de Entrada Flotante
 Al desconectar la entrada $B$ en una compuerta AND, el cable adoptó el color azul. Al fijar $A=0$, la salida fue `0`; pero al fijar $A=1$, la salida cambió a `1`. Esto confirma que las entradas TTL flotantes son interpretadas como `1` lógico interno.
-```
 
 ---
 
@@ -178,7 +176,6 @@ Al desconectar la entrada $B$ en una compuerta AND, el cable adoptó el color az
 
 ### `semana-02/ape-02-informe.md`
 
-```markdown
 # Reporte Técnico APE N.º 02: Formas canónicas y simplificación algebraica
 
 ## 1. Requerimiento Asignado (Grupo 6 - Segmento 'g' BCD)
@@ -215,7 +212,6 @@ Expresión SOP mínima equivalente implementada: $F = A'B + AB' + BC' = \mathbf{
 Compuertas Total:          9 compuertas                   4 compuertas
 Circuito Integrados:       4 chips (7404, 7411x2, 7432)   4 chips (7404, 7486, 7408, 7432)
 Niveles Lógicos:           3 Niveles                      2 Niveles (Menor retardo)
-```
 ```
 
 ---
@@ -288,7 +284,6 @@ Toda expresión en Suma de Productos se convierte a la familia universal **NAND*
 
 ### `semana-03/ape-03-informe.md`
 
-```markdown
 # Reporte Técnico APE N.º 03: Optimización de hardware mediante mapas de Karnaugh
 
 ## 1. Enunciado del Problema (Dígito BCD Primo)
@@ -340,8 +335,6 @@ Transformación booleana: $F = \overline{ (\overline{B'C}) \cdot (\overline{BD})
 | **AND-OR Mínima sin X** | 2 NOT, 2 AND3, 1 OR2 | 3 CIs (7404, 7411, 7432) | $25\%$ |
 | **AND-OR Mínima con X** | 1 NOT, 2 AND2, 1 OR2 | 3 CIs (7404, 7408, 7432) | $25\%$ |
 | **NAND Mínima con X** | 4 NAND de 2 entradas | **1 CI (74LS00)** | **75% de ahorro** |
-```
-```
 
 ---
 
