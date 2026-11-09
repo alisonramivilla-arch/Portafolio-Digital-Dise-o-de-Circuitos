@@ -156,4 +156,23 @@ Demostración teórica y práctica de que cualquier compuerta lógica fundamenta
 * **Conclusiones:** Se verificó el funcionamiento correcto del sumador/restador en Logisim-evolution, comprobando que las operaciones aritméticas con signo y sin signo se ejecutan con precisión y que el indicador de desbordamiento alerta correctamente cuando se superan los límites numéricos de 4 bits.
 
 ---
-*Fin del Cuaderno Académico — Carrera de Computación, Universidad Nacional de Loja.*
+## 📌 Conclusiones y Declaración de Uso de Inteligencia Artificial
+
+### 1. Conclusiones
+* **Fundamentación Numérica:** Se consolidó el dominio en la representación de información digital mediante sistemas binario, octal y hexadecimal, aritmética en complemento a dos y el uso de códigos estándar (BCD, Gray, ASCII).
+* **Simplificación y Formas Canónicas:** Se demostró la equivalencia entre circuitos físicos y expresiones matemáticas, aplicando el álgebra de Boole, leyes de De Morgan y formas canónicas (SOP y POS) para optimizar recursos.
+* **Minimización Geométrica y Universalidad:** Se validó la eficacia de los mapas de Karnaugh de 3 y 4 variables junto al manejo de condiciones indiferentes (*don't care*), así como la universalidad de compuertas (NAND/NOR) para estandarizar el hardware.
+* **Circuitos Aritméticos:** Se diseñaron y verificaron bloques combinacionales avanzados (semisumadores, sumadores completos, sumadores de 4 bits, restadores por complemento y comparadores de magnitud), analizando retardos de propagación y el desbordamiento (*overflow*).
+
+---
+
+### 2. Declaración de Uso de Inteligencia Artificial
+> **Nota de Transparencia Académica:** 
+> Para la elaboración, estructuración y síntesis de este cuaderno de apuntes y prácticas de la asignatura de **Diseño de Circuitos** (Carrera de Computación, Universidad Nacional de Loja), se emplearon herramientas de asistencia basada en Inteligencia Artificial como recurso de apoyo académico. 
+> 
+> La IA fue utilizada exclusivamente como soporte metodológico para:
+> * La organización modular y jerarquizada del contenido teórico por semanas.
+> * La redacción y estandarización técnica de los informes de prácticas experimentales (APE 01 a APE 04) simuladas en *Logisim-evolution*.
+> * La depuración de código en Markdown y esquematización de tablas de verdad.
+> 
+> Todo el contenido ha sido revisado, validado y ajustado conforme a los lineamientos del sílabo oficial y las directrices metodológicas impartidas en las sesiones presenciales y de laboratorio.
