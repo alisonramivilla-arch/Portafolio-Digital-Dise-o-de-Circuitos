@@ -35,11 +35,11 @@
   <!-- SECCIÓN INTERACTIVA: IMAGEN QUE FUNCIONA COMO BOTÓN -->
   ### ✨ Explora mi aprendizaje aquí ✨
   
-  [![Entrar al Portafolio](https://img.shields.io/badge/ACCEDER%20AL%20PORTAFOLIO-CLICK%20AQUÍ-7434eb?style=for-the-badge&logo=rocket&logoColor=white)](./Portafolio.md)
+  [![Entrar al Portafolio](https://img.shields.io/badge/ACCEDER%20AL%20PORTAFOLIO-CLICK%20AQUÍ-7434eb?style=for-the-badge&logo=rocket&logoColor=white)](./Unidad_1.md)
 
   <br>
 
-  <a href="./Portafolio.md">
+  <a href="./Unidad_1.md">
     <img src="https://images.unsplash.com/photo-1515879218367-8466d910aaa4?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80" alt="Entrar al Portafolio" width="500" style="border-radius: 15px; border: 2px solid #7434eb;"/>
   </a>
   
