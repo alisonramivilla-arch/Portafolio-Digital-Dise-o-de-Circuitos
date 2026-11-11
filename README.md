@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/Logo_unl.png" alt="Logo Universidad Nacional de Loja" width="200"/>
+  <img src="https://unl.edu.ec/sites/default/files/inline-images/unl_0_2.png" alt="Logo Universidad Nacional de Loja" width="400"/>
 
   # 🏛️ Universidad Nacional de Loja
   ## 💻 Facultad de la Energía, las Industrias y los Recursos Naturales No Renovables
