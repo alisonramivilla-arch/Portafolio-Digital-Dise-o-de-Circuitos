@@ -1,6 +1,6 @@
 # ⚡ Cuaderno de Prácticas y Apuntes: Diseño de Circuitos
 
-Repositorio académico oficial que recopila el desarrollo teórico, los talleres prácticos, mapas de Karnaugh, diagramas vectoriales y los informes de las prácticas experimentales (APE 01 a APE 04) correspondientes a la **Unidad 1** de la carrera de Computación (Universidad Nacional de Loja).
+Repositorio académico oficial que recopila el desarrollo teórico, los talleres prácticos, mapas de Karnaugh, diagramas vectoriales y los informes de las prácticas experimentales (APE 01 a APE 04) correspondientes a la **Unidad 1** de la carrera de Computación.
 
 ---
 
